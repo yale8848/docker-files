@@ -1,5 +1,5 @@
 /var/log/nginx/*.log {
-  size 1K
+  size 2M
   rotate 50
   dateext
   missingok
